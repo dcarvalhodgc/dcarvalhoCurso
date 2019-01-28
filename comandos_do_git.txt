@@ -1,5 +1,19 @@
 Comandos GIT:
 
+git clone   *URL* - clona o projeto
+
 git blame *nome do aquivo* - comando para saber quais linhas foram 			alteradas
 
 git init - Iniciar um repositorio
+
+git ls-files - mostra os arquivos que o git esta controlando
+
+git status - estatos atual do repositorio
+
+git add *Nome do arquivo* - git monitora o arquivo
+
+git commit -m "Criando Projeto" - gravando alteraçoes
+
+git config user.name "Douglas Gonçalves"
+git config user.email "dcarvalhodgc@gmail.com"
+
