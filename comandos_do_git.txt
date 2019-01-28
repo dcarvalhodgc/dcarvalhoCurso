@@ -12,8 +12,36 @@ git status - estatos atual do repositorio
 
 git add *Nome do arquivo* - git monitora o arquivo
 
+git commit -a - inclui imediatamente no commit todos os arquivos modificados ou removidos! Porém, ela não adiciona os arquivos novos
+
 git commit -m "Criando Projeto" - gravando alteraçoes
 
 git config user.name "Douglas Gonçalves"
 git config user.email "dcarvalhodgc@gmail.com"
+
+git add -A - git add -A  add tudo
+
+git log - mostra historico de commit
+
+git whatchanged - alem da msg de commit mostra os arquivos 		alterados
+git whatchanged -p - mostra tudo que foi alterado mais detalhado
+
+git remote - mostra todos o repositorios remotos
+
+git remote add *nome do repositorio(origin)*  *URL*
+
+git push origin master - joga alteraçoes no repositorio remoto
+
+git branch - listar as branch
+
+git branch *Nome da nova branch*
+
+git checkout *nome da branch* - trocar de branch
+
+
+
+
+
+
+
 
