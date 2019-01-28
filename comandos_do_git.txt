@@ -1,0 +1,5 @@
+Comandos GIT:
+
+git blame *nome do aquivo* - comando para saber quais linhas foram 			alteradas
+
+git init - Iniciar um repositorio
