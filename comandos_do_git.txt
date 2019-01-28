@@ -42,7 +42,7 @@ git checkout *nome da branch* - trocar de branch
 
 git pull - traz alterações da branch
 
-git branch -t  *nome* origin/anotacoes
+git branch -t  *nome* origin/anotacoes .
 
 
 
