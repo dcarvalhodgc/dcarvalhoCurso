@@ -38,6 +38,15 @@ git branch *Nome da nova branch*
 
 git checkout *nome da branch* - trocar de branch
 
+ git push -u origin anotacoes - substituir a branch - branch remota e igual a local
+
+git pull - traz alterações da branch
+
+git branch -t  *nome* origin/anotacoes
+
+
+
+
 
 
 
